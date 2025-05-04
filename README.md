@@ -1,1 +1,1 @@
-Análisis estadístico y creación de gráficas para el estudio de los anuros Dendropsophus mathiassoni, evaluando relaciones entre los cambios morfológicos evidenciados y el aumento de temperatura ambiental a lo largo del tiempo.
+Análisis estadístico y creación de gráficas para el estudio de los anuros _Dendropsophus mathiassoni_, evaluando relaciones entre los cambios morfológicos evidenciados y el aumento de temperatura ambiental a lo largo del tiempo.
